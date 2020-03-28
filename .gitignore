@@ -1,0 +1,4 @@
+spellcloud.tfvars
+*tfstate*
+.terraform/
+tf-elk.tfvarselasticsearch-local.auto.tfvars
