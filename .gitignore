@@ -2,3 +2,4 @@ spellcloud.tfvars
 *tfstate*
 .terraform/
 tf-elk.tfvarselasticsearch-local.auto.tfvars
+elasticsearch-local.auto.tfvars
